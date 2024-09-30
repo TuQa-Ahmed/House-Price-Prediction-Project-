@@ -1,4 +1,4 @@
-# House-Price-Prediction-Project-
+# PRODIGY_ML_01
 My House Price Prediction Project! 🏡
 I recently completed a project where I developed a predictive model for house prices using machine learning techniques. This hands-on experience allowed me to deepen my understanding of various essential skills and methodologies in data science.
 Project Overview:
